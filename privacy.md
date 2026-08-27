@@ -67,3 +67,6 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 If you have questions about this Privacy Policy or your data, contact:
 
 **support.ftcnotes@gmail.com**
+
+[← Back to FTCNotes](.)
+
